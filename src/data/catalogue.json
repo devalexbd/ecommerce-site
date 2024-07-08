@@ -1,0 +1,24 @@
+[
+    {
+        "game_title" : "Garfield Chronicles",
+        "genre" : [
+            "RPG", "Open-World"
+        ],
+        "game_banner" : "src/images/games/garfield/banner.png",
+        "game_poster" : "src/images/games/garfield/poster.png",
+        "game_logo" : "src/images/games/garfield/logo.png",
+        "game_price" : 5.99,
+        "game_release" : "05/09/2025"
+    },
+    {
+        "game_title" : "Outer Wilds",
+        "genre" : [
+            "Action Adventure", "Puzzle"
+        ],
+        "game_banner" : "src/images/games/outer-wilds/banner.png",
+        "game_poster" : "src/images/games/outer-wilds/poster.png",
+        "game_logo" : "src/images/games/outer-wilds/logo.png",
+        "game_price" : 29.99,
+        "game_release" : "29/05/2019"
+    }
+]
